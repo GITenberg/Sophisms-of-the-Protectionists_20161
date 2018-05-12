@@ -1,0 +1,38 @@
+_repo: Sophisms-of-the-Protectionists_20161
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: White, Horace
+    birthdate: 1834
+    deathdate: 1916
+    gutenberg_agent_id: '9116'
+    url: http://www.gutenberg.org/2009/agents/9116
+    wikipedia: http://en.wikipedia.org/wiki/Horace_White_%28writer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bastiat, Frédéric
+    aliases:
+    - Bastiat, Frederic
+    - Bastiat, Claude Frédéric
+    birthdate: 1801
+    deathdate: 1850
+    gutenberg_agent_id: '6395'
+    url: http://www.gutenberg.org/2009/agents/6395
+    wikipedia: http://en.wikipedia.org/wiki/Frédéric_Bastiat
+description: ''
+gutenberg_issued: '2006-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Free trade'
+title: Sophisms of the Protectionists
+url: http://www.gutenberg.org/ebooks/20161
